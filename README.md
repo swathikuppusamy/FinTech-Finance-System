@@ -37,7 +37,7 @@ Edit `.env`:
 
 ```
 PORT=3000
-MONGODB_URI=mongodb://localhost:27017/finance_dashboard
+MONGODB_URI=mongodb://localhost:27017/finance-system
 JWT_SECRET=your_secret_key_here
 JWT_EXPIRES_IN=7d
 NODE_ENV=development
